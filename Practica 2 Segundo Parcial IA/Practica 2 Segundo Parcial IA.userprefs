@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Destruccion.cs">
+    <Files>
+      <File FileName="Assets\Scripts\NPCSimplePatrol.cs" Line="27" Column="19" />
+      <File FileName="Assets\Scripts\WayPoint.cs" Line="14" Column="2" />
+      <File FileName="Assets\Scripts\DieEnemy.cs" Line="8" Column="31" />
+      <File FileName="Assets\Scripts\DieMario.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\Destruccion.cs" Line="9" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
